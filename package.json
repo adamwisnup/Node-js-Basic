@@ -1,0 +1,27 @@
+{
+  "name": "adam-games-module",
+  "version": "1.0.1",
+  "description": "projek penghibur para wanita",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "anisa": "nodemon server.js"
+  },
+  "keywords": [
+    "project",
+    "node",
+    "js",
+    "Basic",
+    "node",
+    "js",
+    "adam",
+    "module"
+  ],
+  "author": "https://instagram.com/adam_wisnup",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "rupiah-format": "^1.0.0"
+  }
+}
